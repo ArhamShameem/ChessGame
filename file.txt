@@ -1,0 +1,17 @@
+SOCKET:
+library that enables real-time, bi-directional communication between web clients (browsers)
+and servers. It essentially builds upon the concept of sockets (communication endpoints)
+to provide a more user-friendly and feature-rich way for web applications to exchange 
+data in real-time.
+-it is used in app like chat apps, gaming apps etc.
+-socket io is setup at backend as well as on frontend using cdn(content delivery network).
+-in Sockets message goes from frontend to backend where we
+can decide to how much people we need to send this message.
+
+CHESS.JS
+chess.js is a JavaScript library that allows you to create, validate, and manipulate 
+chess moves. It's often used in web applications to implement the game logic for chess,
+handling tasks like move validation, check/checkmate detection, and board state manipulation.
+When integrated with an Express.js application, it can be used to build chess-related functionalities,
+ such as online chess games or chess analysis tools.
+
